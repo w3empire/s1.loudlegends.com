@@ -1,0 +1,1 @@
+This repo hosts images used by the LoudLegends.com site, deployed via GitHub Pages and cached with Cloudflare.
